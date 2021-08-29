@@ -32,7 +32,7 @@
 }
 
 .carousel-inner p{
-    padding-right: 10%;
+    padding-right: 25%;
 }
 
 .header{
@@ -80,7 +80,7 @@ section{
 .svg{
     border: none;
     border-radius: 10px;
-    margin-left: 15px;
+
 }
 .categories-design{
     margin-bottom: 96px;
@@ -90,17 +90,21 @@ section{
 
 .cats img{
  
-    width: 600px;
-    height: 600px;
+    width: 589px;
+    height: 455px;
    
 
 }
 
 .cat,.catt{
-    padding:20%;
+
+    padding: 20%;
+   
     margin-bottom: 48px;
     border: none;
     border-radius: 0;
+    height: 250px;
+   
 
 }
 
@@ -124,5 +128,13 @@ section{
 footer p{
     text-align: center;
     font-size: 12px;
+
+}
+
+.card-cat{
+    padding-top: 10%;
+}
+
+.carousel-item img{padding-left: 20px;
 
 }
