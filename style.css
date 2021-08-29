@@ -1,0 +1,125 @@
+.carousel-inner{
+    background-image: url(./hot-gadgets/bg-1.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size:8% 65%;
+
+}
+
+.carousel-indicators [data-bs-target] {
+    background-color:lightgray;
+    height: 12px;
+    width: 16px;
+    border: none;
+    border-radius: 10px;
+}
+.carousel-indicators .active {
+    background-color:gold;
+    height: 12px;
+    width: 45px;
+    border: none;
+    border-radius: 10px;
+}
+
+
+.buy-now-button{
+    background-color: black;
+    color:#fff;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+    cursor: pointer;
+}
+
+.carousel-inner p{
+    padding-right: 10%;
+}
+
+.header{
+    
+    background-image: url(./hot-gadgets/bg-2.png);
+    background-position: left bottom;
+    background-repeat: no-repeat;
+    background-size:6% 20%;
+
+}
+
+section{
+    margin-bottom: 100px;
+}
+
+.card{
+    border: none;
+    box-shadow: 5px 5px 30px lightgray;
+    border-radius: 15px;
+    padding:10%; 
+}
+
+
+.card p{
+    color: grey;
+}
+
+.card-footer {
+    background-color: white;
+    border-top:none;
+}
+
+.card-img, .card-img-top{
+    border-radius: 15px;
+}
+
+.seeall{
+    margin-bottom: 20px;
+}
+
+.seeall p{
+    color: gold;
+}
+
+.svg{
+    border: none;
+    border-radius: 10px;
+    margin-left: 15px;
+}
+.categories-design{
+    margin-bottom: 96px;
+}
+
+
+
+.cats img{
+    width: 100%;
+
+}
+
+.cat,.catt{
+    padding:20%;
+    margin-bottom: 48px;
+    border: none;
+    border-radius: 0;
+
+}
+
+.cat{
+    
+    border-bottom-left-radius: 20px;
+    border-top-right-radius: 20px;
+}
+.catt{
+
+    border-top-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+
+
+.text{
+    text-align: center;
+    padding-top: 10%;
+}
+
+footer p{
+    text-align: center;
+    font-size: 12px;
+
+}
