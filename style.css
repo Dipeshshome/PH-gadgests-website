@@ -90,22 +90,18 @@ section{
 
 .cats img{
  
-    width: 589px;
-    height: 455px;
-   
-
+    width: 100%;
 }
 
 .cat,.catt{
 
     padding: 20%;
-   
     margin-bottom: 48px;
     border: none;
     border-radius: 0;
-    height: 250px;
-   
 
+
+    
 }
 
 .cat{
